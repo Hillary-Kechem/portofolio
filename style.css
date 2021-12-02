@@ -54,6 +54,7 @@ footer{
 .about{
     font-weight: bold;
     padding-left: 820px;
+    
 }
 .box2{
     display:flex;
@@ -65,4 +66,7 @@ footer{
 .work{
     font-size: 30px;
     padding-left: 200px;
+}
+span{
+    color:green;
 }
