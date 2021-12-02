@@ -53,6 +53,7 @@ footer{
 }
 .about{
     font-weight: bold;
+    padding-left: 820px;
 }
 .box2{
     display:flex;
