@@ -53,7 +53,8 @@ footer{
 }
 .about{
     font-weight: bold;
-    padding-left: 820px;
+    display: flex;
+    justify-content: center;
     
 }
 .box2{
@@ -74,4 +75,9 @@ span{
     font-weight: bold;
     padding-left: 820px;
     
+}
+.landing{
+    align-items: flex-start;
+    flex-flow:row;
+    justify-content: space-evenly;
 }
