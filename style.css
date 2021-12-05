@@ -65,7 +65,6 @@ span{
 }
 .title{
     font-weight: bold;
-    padding-left: 820px;
     
 }
 .landing{
@@ -75,4 +74,23 @@ span{
 }
 .jobo{
     float:left;
+}
+.update{
+    margin:100px;
+}
+.update h3{
+    color:magenta;
+    
+}.update h4{
+    color:magenta;
+}
+.letuce a:hover{
+    color:red;
+    text-decoration: none;
+
+}
+.title{
+    justify-content: center;
+    padding-left:130px;
+    align-items: center;
 }
