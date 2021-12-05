@@ -16,8 +16,7 @@
     padding:20px;
 }
 .protxt{
-    height: 520px;
-    width:450px;
+    
     background-image:url("images/web.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -25,11 +24,9 @@
     margin:60px;
 }
 .bgcolor{
-    background-color:#b76e79;
+    background-color:#2596be;
 }
-.bgcolor1{
-    background-image: url(images/workshop.jpg);
-}
+
 footer{
     background-color:blue;
     padding:20px;
