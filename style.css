@@ -11,6 +11,7 @@
     margin-right: 60px;
     margin-left: 100px;
     font-size: 30px;
+    text-align: center;
 }
 .nameimg{
     padding:20px;
@@ -22,6 +23,7 @@
     background-repeat: no-repeat;
     padding: 90px;
     margin:60px;
+    text-align: center;
 }
 .bgcolor{
     background-image: linear-gradient( 135deg, #FFCF71 10%, #2376DD 100%);
@@ -71,6 +73,10 @@ span{
     align-items: flex-start;
     flex-flow:row;
     justify-content: space-evenly;
+    list-style-type:none;
+    text-align: center;
+    padding: 10px;
+
 }
 .jobo{
     float:left;
@@ -91,6 +97,16 @@ span{
 }
 .title{
     justify-content: center;
-    padding-left:130px;
+    font-size: 30px;
     align-items: center;
+    text-align: center;
+}
+
+
+.row a{
+    list-style-type: none
+}
+.row li a:hover {
+        background-color: #555;
+        color: white;
 }
